@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-size: 16px;
+  font-size: 1em;
   font-family: Helvetica, sans-serif;
 }
 header {
@@ -18,20 +18,19 @@ header a {
 header li {
   list-style-type: none;
   display: inline-block;
-  padding-right: 10px;
-  padding-bottom: 10px;
+  padding: 0 0.5em;
 }
 
 header img {
   display: block;
-  width: 300px;
+  width: 20em;
   margin-left: auto;
   margin-right: auto;
-  padding: 10px 0px;
+  padding: 0.5em 0;
 }
 
 .content {
-  max-width: 800px;
+  max-width: 50em;
   margin: 0 auto;
-  padding: 10px 15px;
+  padding: 0.5em 1em;
 }
