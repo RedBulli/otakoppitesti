@@ -29,5 +29,7 @@ Liittymällä OtaKopin jäseneksi tuet yhdistyksen toimintaa ja pääset mukaan 
 
 OtaKopin jäsenyys on ilmaista Aalto-yliopiston ylioppilaskunnan ja Helsingin yliopiston ylioppilaskunnan jäsenille. Muille jäsenille jäsenmaksu on 30 euroa / kausi.
 
+Voit hakea OtaKopin jäsenyyttä [täyttämällä lomakkeen](https://forms.gle/fkNqnzqBgU1nHqVH6).
+
 Käy tykkäämässä OtaKopista [Facebookissa](https://www.facebook.com/otakoppi/) ja seuraamassa [Instagramissa](https://www.instagram.com/otakoppi_official/)!
 FB-sivujen ja Instan kautta kerrotaan viimeisimpiä kuulumisia ja tiedotetaan myös tulevista tapahtumista.
