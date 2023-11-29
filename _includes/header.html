@@ -1,10 +1,10 @@
 <header>
-  <div id="logo">
-    <a href="/"
-      ><img src="{{ 'images/ok_logo.png' | relative_url }}" alt="OtaKopin logo"
-    /></a>
-  </div>
-  <div id="title_logo">
-    <img src="{{ 'images/title.png' | relative_url }}" alt="Otakoppi ry" />
+  <div class="content">
+    <a href="/"><img src="{{ 'images/otakoppi_musta.png' | relative_url }}" alt="OtaKopin logo"></a>
+    <ul class="nav_menu">
+      {% for p in site.data.nav -%}
+      <li><a href="{{ p.link | relative_url }}" target={% if p.openInNewTab %}"_blank"{% else %}"_self"{% endif %}>{{ p.title }}</a></li>
+      {% endfor -%}
+    </ul>
   </div>
 </header>
